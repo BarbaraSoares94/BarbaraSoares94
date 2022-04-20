@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BarbaraSoares94
-- 👀 I’m interested in aprender Html e Css
+- 👀 I’m interested in aprender Html, Css e JS
 - 🌱 I’m currently stundying Sistemas de Informação
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me barbaraandromeda94@gmail.com
